@@ -1,5 +1,5 @@
-BBank Churn Prediction
-TThis project aims to predict whether a customer will stay with the bank or exit based on various customer-related features. The prediction is made using a machine learning model trained on customer data, 
+Bank Churn Prediction
+This project aims to predict whether a customer will stay with the bank or exit based on various customer-related features. The prediction is made using a machine learning model trained on customer data, 
 including demographic details, financial statistics, and account activity.
 
 Overview:
